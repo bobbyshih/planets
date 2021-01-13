@@ -1,3 +1,3 @@
 # Planet notes about where to move to
 this is a test repo for Foundations for Research Computing workshop. **Please ignore.** 
-Adding some more to see what happens in local file
+Adding some more to see what happens in local file -- this is also being added from Bash
